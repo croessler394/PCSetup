@@ -1,0 +1,13 @@
+Microsoft.WindowsCalculator
+Microsoft.WindowsStore
+Microsoft.WindowsShellExperienceHost
+Microsoft.Windows.CloudExperienceHost
+Microsoft.AAD.BrokerPlugin
+Microsoft.BioEnrollment
+Microsoft.MicrosoftEdge
+Microsoft.Windows.OOBENetworkCaptivePortal
+Microsoft.Windows.OOBENetworkConnectionFlow
+Microsoft.Windows.ParentalControls
+Microsoft.Windows.SecHealthUI
+Microsoft.Windows.SecureAssessmentBrowser
+Microsoft.Windows.XGpuEjectDialog
